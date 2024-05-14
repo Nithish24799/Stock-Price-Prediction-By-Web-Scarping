@@ -3,10 +3,10 @@ Stock Price Prediction with Web Scraping and Python
 This repository contains Python code for predicting stock prices using web scraping techniques. By scraping historical stock data from a website (in this case, Yahoo Finance), preprocessing the data, and training a machine learning model, you can predict future stock prices based on past trends.
 
 Table of Contents
-Introduction
-Dependencies
-Usage
-License
+Introduction,
+Dependencies,
+Usage,
+License.
 
 Introduction
 
@@ -16,8 +16,8 @@ In this project, we scrape historical stock data from Yahoo Finance using Python
 
 Dependencies
 
-Python 3.x
-Requests library
-BeautifulSoup library
-Pandas library
-Scikit-learn library
+Python 3.x,
+Requests library,
+BeautifulSoup library,
+Pandas library,
+Scikit-learn library.
